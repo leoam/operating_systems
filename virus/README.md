@@ -11,3 +11,6 @@ A noise generator bombards the CPU with meaningless operations, causing CPU usag
 
 ## Virus 4 - Denial of Service by Recursion
 This is a recursive program that saturates the call stack, eventually causing the operating system to stall.
+
+## Extra - Automatic process
+Investigate how a process (virus) could be executed automatically everytime the SO turns on
